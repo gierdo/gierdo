@@ -6,6 +6,6 @@ Munich, Germany.
 - 📖 I sometimes [blog](https://gierdo.astounding.technology)
 - 💻 I like (neo)vim
 - 🐧 I like linux
-- 🌀 I linke Debian
+- 🌀 I like Debian
 - 💻 I manage my system configuration in a [dotfiles repository](https://github.com/gierdo/dotfiles)
 - 🌎 You can find me on [linkedin](https://www.linkedin.com/in/dominik-gierlach-68147791/)
